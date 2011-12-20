@@ -1,0 +1,56 @@
+
+ 
+#main-content { margin: 0px; }
+ 
+.main-content { position: relative; background: #eeeeee; padding: 30px 0; border-top: 1px solid #cccccc; overflow: hidden; width: 760px; }
+.main-content .left-column { float: left; width: 300px; }
+.main-content .right-column { float: right; width: 460px; }
+.main-content.blank_title { border-top: 0; }
+ 
+body { font-family: "lucida grande", tahoma, verdana, arial, sans-serif; font-size: 11px; text-align: left; }
+ 
+ 
+h1 { font-size: 18px; color: #333333; color: #333333; margin: 0; padding: 10px 30px 30px 30px; }
+hr { border: 0; background-color: #cccccc; height: 1px; margin-top: 2px; margin-bottom: 2px; }
+h2, h3, h4, h5 { color: #333333; font-size: 13px; margin: 0; padding: 0; }
+a { color: #3b5998; text-decoration: none; }
+ 
+ 
+#prize_column, #policies_column { height: 100%; background-color: white; border-bottom: 1px solid #cccccc; }
+ 
+#prize_column { padding: 15px; float: left; width: 300px; margin-left: 30px; }
+#prize_column #contest_buttons { margin: 0 50px; text-align: center; }
+#prize_column #contest_buttons em { display: block; padding: 1em 0; }
+#prize_column .contest-button { margin-bottom: 15px; }
+#prize_column .contest-button:hover { margin-bottom: 17px; }
+ 
+#prize_column { float: none; margin-left: auto; margin-right: auto; }
+ 
+ 
+#deal { width: 272px; display: block; font-size: 16px; margin-top: 5px; height: 43px; overflow: hidden; line-height: 38px; background: url('deal.png'); no-repeat; position: absolute; top: 10px; left: -3px; text-transform: uppercase; color: white; padding: 0 30px 0 20px; }
+ 
+#deal strong { font-size: 23px; }
+ 
+ 
+#deal #buynow-bt { float: right; color: white; padding: 6px 8px; line-height: 16px; margin-top: 4px; background: url(bt.png); repeat-x top left; border: 1px solid #3b6e22; text-transform: none; font-size: 14px; font-weight: bold; }
+#prize_column, #policies_column { height: 100%; background-color: white; border-bottom: 1px solid #cccccc; }
+ 
+#policies_column { color: #333333; float: left; width: 300px; margin-left: 40px; padding-left: 15px; padding-right: 15px; }
+#policies_column dt { font-weight: bold; }
+#policies_column dd { color: #666666; }
+#policies_column .prize, #policies_column dd { margin-bottom: 20px; margin-left: 0; }
+#policies_column p { margin-top: 0; margin-bottom: 5px; }
+#policies_column { position: relative; padding-top: 25px; }
+#policies_column h1 { padding: 0; margin-bottom: 10px; }
+#group-deal-info { overflow: hidden; margin: 10px 0; }
+#groupdeal-summary { clear: both; padding-top: 30px; margin-bottom: 10px; }
+ #discount-value { margin: 0; padding: 0; list-style: none; overflow: hidden; }
+#discount-value li { width: 100px; float: left; }
+#discount-value li h3 { margin-bottom: 10px; }
+#discount-value span { font-size: 18px; }
+#timer { padding: 5px; background: #fff9d7; border: 1px solid #e2c822; }
+ #progress { padding: 10px 0 0 0; margin-top: 10px; border-top: 1px solid #b6bfcf; }
+#progress h2 { margin-bottom: 10px; }
+ #progress-bar { width: 300px; position: relative; height: 29px; background: url(progress-bg.png); no-repeat; margin-bottom: 10px; }
+#progress-bar div { display: block; height: 18px; width: 286px; position: absolute; top: 5px; left: 7px; }
+ #progress-bar div span { background: url(progress-bar.png); no-repeat; display: block; height: 18px; }

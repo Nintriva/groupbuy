@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/PROJECTS/!svn/ver/398/repos/branches/dev07/groupbuy/components/views
+END
+_userDealView.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/PROJECTS/!svn/ver/386/repos/branches/dev07/groupbuy/components/views/_userDealView.php
+END
+_publishedDealView.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/PROJECTS/!svn/ver/386/repos/branches/dev07/groupbuy/components/views/_publishedDealView.php
+END
+submitOrder.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/PROJECTS/!svn/ver/429/repos/branches/dev07/groupbuy/components/views/submitOrder.php
+END
+dealView.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/PROJECTS/!svn/ver/423/repos/branches/dev07/groupbuy/components/views/dealView.php
+END
+userGroupDeals.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/PROJECTS/!svn/ver/386/repos/branches/dev07/groupbuy/components/views/userGroupDeals.php
+END
+installApp.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/PROJECTS/!svn/ver/417/repos/branches/dev07/groupbuy/components/views/installApp.php
+END
+publishedDeals.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/PROJECTS/!svn/ver/386/repos/branches/dev07/groupbuy/components/views/publishedDeals.php
+END

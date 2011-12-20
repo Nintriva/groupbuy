@@ -1,0 +1,41 @@
+<div class="view">
+<div>
+
+<div id='headline'>
+<?php echo "<h3>".CHtml::link($data->title,array('/groupbuy/deal/view','id'=>$data->id))."</h3>"; ?>
+</div>
+
+<div id="op">
+<?php
+ 
+ echo " |".CHtml::link('Preview',array('/groupbuy/deal/view','id'=>$data->id));
+
+if($data->published==0)
+{
+ echo " |".CHtml::link('Publish',array('/groupbuy/deal/publish','id'=>$data->id));
+ echo " |".CHtml::link('X-Delete','#',array("submit"=>array('/groupbuy/deal/delete','id'=>$data->id),'confirm' => 'Are you sure?'));
+ echo " |".CHtml::link('Edit',array('/groupbuy/deal/update','id'=>$data->id));
+
+}
+else
+{
+echo " |".CHtml::link('Unpublish',array('/groupbuy/deal/ConfirmUnPublish','id'=>$data->id));
+}
+
+echo " |".CHtml::link('+Duplicate',array('/groupbuy/deal/duplicate','id'=>$data->id));
+
+echo "<br/>";
+$c=$data->getBoughtCount();
+echo $c." coupons sold";
+if($c!=0)
+echo "<br/>".CHtml::link('See buyers',array('/groupbuy/deal/seeBuyers','id'=>$data->id));
+
+?>
+</div>
+
+</div>
+
+</div>
+
+
+

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/PROJECTS/!svn/ver/397/repos/branches/dev07/groupbuy/extensions/facebook
+END
+FacebookComponent.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/PROJECTS/!svn/ver/397/repos/branches/dev07/groupbuy/extensions/facebook/FacebookComponent.php
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/PROJECTS/!svn/ver/397/repos/branches/dev07/groupbuy/extensions/facebook/LICENSE
+END
+FacebookUserIdentity.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/PROJECTS/!svn/ver/397/repos/branches/dev07/groupbuy/extensions/facebook/FacebookUserIdentity.php
+END
+README.md
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/PROJECTS/!svn/ver/397/repos/branches/dev07/groupbuy/extensions/facebook/README.md
+END
+FacebookException.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/PROJECTS/!svn/ver/397/repos/branches/dev07/groupbuy/extensions/facebook/FacebookException.php
+END
